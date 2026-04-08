@@ -14,6 +14,7 @@ By transforming raw Excel data into meaningful insights, this project highlights
 - Identifying trends, performance gaps, and growth opportunities
 - Communicating insights through clean, user-friendly visuals
 
+---
 
 ## Key Features
 
@@ -27,6 +28,7 @@ By transforming raw Excel data into meaningful insights, this project highlights
 
 ![Data Model](images/model.png)
 
+---
 ### Executive KPI Overview
 - Total Quantity YTD: 555.66K  
 - Previous Year: 538.61K  
