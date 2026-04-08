@@ -34,8 +34,6 @@ By transforming raw Excel data into meaningful insights, this project highlights
 - Growth (YTD vs PYTD): +17.05K  
 - Gross Profit Margin: 39.62%  
 
-Provides a quick snapshot of overall business performance.
-
 ![Dashboard Overview](images/project.png)
 
 ---
