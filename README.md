@@ -1,18 +1,10 @@
 # Power BI Plant Sales Dashboard
 
 ## Overview
-This project showcases an interactive Power BI dashboard designed to analyze plant-related sales performance across regions, products, and customers. The dashboard provides clear visibility into key business metrics such as total sales, quantity, gross profit, and year-over-year performance.
+This project showcases an interactive Power BI dashboard designed to analyze plant-related sales performance across regions, products, and customers. This dashboard provides clear visibility into key business metrics such as total sales, quantity, gross profit, and year-over-year performance.
 
 By transforming raw Excel data into meaningful insights, this project highlights my ability to perform data modeling, build dynamic visualizations, and support data-driven decision-making.
 
----
-
-## Tools & Technologies
-- Power BI (Data Visualization & Dashboarding)
-- Microsoft Excel (Data Source)
-- DAX (Measures & Calculations)
-- Data Modeling (Star Schema)
-- Power Query (Data Transformation)
 ---
 ## Key Skills Demonstrated
 - Building interactive dashboards in Power BI
@@ -43,7 +35,7 @@ By transforming raw Excel data into meaningful insights, this project highlights
 
 Provides a quick snapshot of overall business performance.
 
-![Dashboard Overview](images/dashboard.png)
+![Dashboard Overview](images/project.png)
 
 ---
 
