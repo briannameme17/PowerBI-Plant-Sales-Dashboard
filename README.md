@@ -24,7 +24,6 @@ By transforming raw Excel data into meaningful insights, this project highlights
   - Dim_Product
   - Dim_Account
   - Dim_Date
-- Enabled efficient filtering and accurate calculations across visuals
 
 ![Data Model](images/model.png)
 
