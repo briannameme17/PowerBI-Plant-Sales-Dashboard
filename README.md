@@ -48,7 +48,7 @@ By transforming raw Excel data into meaningful insights, this project highlights
 ---
 
 ### Profitability Segmentation
-- Scatter plot analyzing GP% vs Sales Value
+- Scatter plot analyzing GP%
 - Identifies high-value and high-profit customer segments
 - Helps highlight opportunities for optimization
 
