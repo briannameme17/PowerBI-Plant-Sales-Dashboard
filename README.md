@@ -61,7 +61,7 @@ Provides a quick snapshot of overall business performance.
 - Displays bottom-performing countries based on YTD vs PYTD
 - Highlights areas needing improvement
 
-![Country Performance](images/bottom10.png)
+![Country Performance](images/Bottom 10.png)
 
 ---
 
