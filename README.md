@@ -25,7 +25,17 @@ By transforming raw Excel data into meaningful insights, this project highlights
 
 ## Key Features
 
-### 1. Executive KPI Overview
+###  Data Model Design
+- Built a structured data model with fact and dimension tables:
+  - Fact_Sales
+  - Dim_Product
+  - Dim_Account
+  - Dim_Date
+- Enabled efficient filtering and accurate calculations across visuals
+
+![Data Model](images/model.png)
+
+### Executive KPI Overview
 - Total Quantity YTD: 555.66K  
 - Previous Year: 538.61K  
 - Growth (YTD vs PYTD): +17.05K  
@@ -37,7 +47,7 @@ Provides a quick snapshot of overall business performance.
 
 ---
 
-### 2. Monthly Performance Trends
+### Monthly Performance Trends
 - Tracks quantity trends across months
 - Compares product types (Indoor, Landscape, Outdoor)
 - Includes previous year comparison for performance benchmarking
@@ -46,7 +56,7 @@ Provides a quick snapshot of overall business performance.
 
 ---
 
-### 3. Profitability Segmentation
+### Profitability Segmentation
 - Scatter plot analyzing GP% vs Sales Value
 - Identifies high-value and high-profit customer segments
 - Helps highlight opportunities for optimization
@@ -55,7 +65,7 @@ Provides a quick snapshot of overall business performance.
 
 ---
 
-### 4. Country Performance Analysis
+### Country Performance Analysis
 - Displays bottom-performing countries based on YTD vs PYTD
 - Highlights areas needing improvement
 
@@ -63,22 +73,11 @@ Provides a quick snapshot of overall business performance.
 
 ---
 
-### 5. Quantity Variance Breakdown
+### Quantity Variance Breakdown
 - Waterfall chart showing increases and decreases across months
 - Clearly visualizes how performance builds to total yearly growth
 
 ![Waterfall Analysis](images/quantity.png)
 
----
-
-### 6. Data Model Design
-- Built a structured data model with fact and dimension tables:
-  - Fact_Sales
-  - Dim_Product
-  - Dim_Account
-  - Dim_Date
-- Enabled efficient filtering and accurate calculations across visuals
-
-![Data Model](images/model.png)
 
 ---
